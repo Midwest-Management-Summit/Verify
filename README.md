@@ -7,4 +7,5 @@ Use the [Issues](https://github.com/Midwest-Management-Summit/Verify/issues) to 
 ## Discord
 
 If you are not yet on discord, [join us](https://discord.gg/Uvvy2SPMne).  You can also submit issues there by sending a DM to @modmail from our server.
+
 ![Discord](https://img.shields.io/discord/980157739370151936)
